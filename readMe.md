@@ -1,6 +1,4 @@
-# codeRowerAssignment — FastAPI (client + server)
-
-**Project:** A full-stack example containing a React/Vite client and a Node.js server (Express-style structure). This repository demonstrates a small configuration-management app: the client reads and updates configuration items through REST endpoints served by the server. The file updated is [readMe.md](readMe.md).
+# codeRowerAssignment - FastAPI (client + server)
 
 **Architecture**
 - **Client:** Single-page React app powered by Vite. UI pages live under `client/src/pages` and reusable pieces under `client/src/components`. Network calls are encapsulated in `client/src/services/api.js`.
